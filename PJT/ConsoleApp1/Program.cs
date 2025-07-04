@@ -52,17 +52,15 @@ namespace ConsoleApp1
 
             for (int i = 0; i < 9; i++)
             {
-                int k = i;
-                for (int j = 0; j <= k; j++)
+                int k = i < 5 ? i+1 : 9 - i;
+               
+                for (int j = 0; j < k; j++)
                 {
-                    if(k<=5)
-                    {
-                        Console.Write("*");
-                    }
+                    Console.Write("*");
                    
                 }
                 Console.WriteLine();
-            }
+            } 
 
 
 
