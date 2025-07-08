@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\c_sharp\\practice\\oop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\c_sharp\\practice\\oop\\Dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\c_sharp\\practice\\oop\\Abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "E:\\c_sharp\\practice\\oop\\Dog.cs",
-              "RelativeDocumentMoniker": "Dog.cs",
-              "ToolTip": "E:\\c_sharp\\practice\\oop\\Dog.cs",
-              "RelativeToolTip": "Dog.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "E:\\c_sharp\\practice\\oop\\Abstraction.cs",
+              "RelativeDocumentMoniker": "Abstraction.cs",
+              "ToolTip": "E:\\c_sharp\\practice\\oop\\Abstraction.cs",
+              "RelativeToolTip": "Abstraction.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:22:24.092Z",
+              "WhenOpened": "2025-07-05T06:14:21.298Z",
               "EditorCaption": ""
             }
           ]
