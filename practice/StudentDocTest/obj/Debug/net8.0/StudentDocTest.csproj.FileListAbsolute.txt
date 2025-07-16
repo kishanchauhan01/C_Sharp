@@ -1,0 +1,15 @@
+E:\c_sharp\practice\StudentDocTest\bin\Debug\net8.0\StudentDocTest.exe
+E:\c_sharp\practice\StudentDocTest\bin\Debug\net8.0\StudentDocTest.deps.json
+E:\c_sharp\practice\StudentDocTest\bin\Debug\net8.0\StudentDocTest.runtimeconfig.json
+E:\c_sharp\practice\StudentDocTest\bin\Debug\net8.0\StudentDocTest.dll
+E:\c_sharp\practice\StudentDocTest\bin\Debug\net8.0\StudentDocTest.pdb
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\StudentDocTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\StudentDocTest.AssemblyInfoInputs.cache
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\StudentDocTest.AssemblyInfo.cs
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\StudentDocTest.csproj.CoreCompileInputs.cache
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\StudentDocTest.sourcelink.json
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\StudentDocTest.dll
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\refint\StudentDocTest.dll
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\StudentDocTest.pdb
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\StudentDocTest.genruntimeconfig.cache
+E:\c_sharp\practice\StudentDocTest\obj\Debug\net8.0\ref\StudentDocTest.dll
