@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c_sharp\\NVB\\OOPs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{894ED8A3-9EA7-41BA-9B89-BAC9B33A7657}|OOPs.csproj|e:\\c_sharp\\nvb\\oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894ED8A3-9EA7-41BA-9B89-BAC9B33A7657}|OOPs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894ED8A3-9EA7-41BA-9B89-BAC9B33A7657}|OOPs.csproj|e:\\c_sharp\\nvb\\oops\\notes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{894ED8A3-9EA7-41BA-9B89-BAC9B33A7657}|OOPs.csproj|solutionrelative:notes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "notes.md",
+              "DocumentMoniker": "E:\\c_sharp\\NVB\\OOPs\\notes.md",
+              "RelativeDocumentMoniker": "notes.md",
+              "ToolTip": "E:\\c_sharp\\NVB\\OOPs\\notes.md",
+              "RelativeToolTip": "notes.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-29T04:45:38.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c_sharp\\NVB\\OOPs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\c_sharp\\NVB\\OOPs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T04:39:18.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

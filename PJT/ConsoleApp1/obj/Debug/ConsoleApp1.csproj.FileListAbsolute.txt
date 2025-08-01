@@ -1,0 +1,2 @@
+E:\c_sharp\PJT\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\c_sharp\PJT\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
