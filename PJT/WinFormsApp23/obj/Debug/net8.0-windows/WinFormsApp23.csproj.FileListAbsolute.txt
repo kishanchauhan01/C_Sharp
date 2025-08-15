@@ -1,0 +1,17 @@
+E:\c_sharp\PJT\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.exe
+E:\c_sharp\PJT\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.deps.json
+E:\c_sharp\PJT\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.runtimeconfig.json
+E:\c_sharp\PJT\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.dll
+E:\c_sharp\PJT\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.pdb
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.Form1.resources
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.csproj.GenerateResource.cache
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.AssemblyInfoInputs.cache
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.AssemblyInfo.cs
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.csproj.CoreCompileInputs.cache
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.sourcelink.json
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.dll
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\refint\WinFormsApp23.dll
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.pdb
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.genruntimeconfig.cache
+E:\c_sharp\PJT\WinFormsApp23\obj\Debug\net8.0-windows\ref\WinFormsApp23.dll
